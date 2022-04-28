@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "truffle": "^5.5.11"
+  },
+  "name": "truffleerc721",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
