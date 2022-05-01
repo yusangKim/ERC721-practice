@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "@openzeppelin/contracts": "^4.6.0",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "ganache": "^7.1.0",
+    "ganache-cli": "^6.12.2",
+    "nft.storage": "^6.2.0",
     "truffle": "^5.5.11"
   },
   "name": "truffleerc721",
@@ -16,6 +20,10 @@
   "license": "ISC",
   "directories": {
     "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-work:yusangKim/ERC721-practice.git"
   },
   "description": ""
 }
